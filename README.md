@@ -6,6 +6,9 @@
   <img src=https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB alt=PHP style="margin-bottom: 5px;" />
   <img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black alt=Linux style="margin-bottom: 5px;" />
   <img src=https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white alt=GraphQL style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge style="margin-bottom: 5px;" />
+
 </div>
 
 ## 🌐 Socials:
