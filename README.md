@@ -1,9 +1,9 @@
 
 ## :books: Ongoing Learning 
 <div align="center">
-  <img src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white alt=Python style="margin-bottom: 5px;" />
-  <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black alt=Javascript style="margin-bottom: 5px;" />
-  <img src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white alt=PHP style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge alt=Python style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white alt=Javascript style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB alt=PHP style="margin-bottom: 5px;" />
   <img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black alt=Linux style="margin-bottom: 5px;" />
   <img src=https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white alt=GraphQL style="margin-bottom: 5px;" />
 </div>
